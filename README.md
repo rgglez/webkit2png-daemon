@@ -20,7 +20,7 @@ my $WEBKIT2PNG = 'webkit2png.py';
 my $CAT = '/bin/cat';
 ``` 
 
-Create the directory for the logs and set the correct permissions:
+Create the directory for the logs and set the correct permissions/ownerships:
 
 ```bash
 mkdir /var/log/webkit2png/
