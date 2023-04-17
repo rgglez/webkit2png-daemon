@@ -21,9 +21,16 @@ my $WEBKIT2PNG = 'webkit2png.py';
 my $CAT = '/bin/cat';
 ``` 
 
+Create the directory for the logs and set the correct permissions:
+
+```bash
+mkdir /var/log/webkit2png/
+chown $USER:$GROUP /var/log/webkit2png/
+```
+
 Start the server executing:
 
-```
+```bash
 perl WebKit2PNGDaemon.pl
 ```
 
