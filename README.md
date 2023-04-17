@@ -1,7 +1,6 @@
 # webkit2png-daemon
 
 [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
-![GitHub all releases](https://img.shields.io/github/downloads/rgglez/webkit2png-daemon) 
 ![GitHub issues](https://img.shields.io/github/issues/rgglez/webkit2png-daemon) 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/rgglez/webkit2png-daemon)
 
