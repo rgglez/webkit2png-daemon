@@ -66,7 +66,7 @@ You can install them using *perl -MCPAN -e shell* or your distro's package manag
 ## Notes
 
 * You must download the [webkit2png](https://pypi.org/project/webkit2png/) Python script.
-* A simpler and more modern solution to screenshot webpages is provided [here](https://github.com/rgglez/fc-webpage-screenshot).
+* If you are into cloud FaaS, look [here](https://github.com/rgglez/fc-webpage-screenshot).
 
 ## TODO
 
