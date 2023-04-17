@@ -5,7 +5,7 @@
 ![GitHub issues](https://img.shields.io/github/issues/rgglez/webkit2png-daemon) 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/rgglez/webkit2png-daemon)
 
-A daemon written in Perl which listens for URLs to be screenshoted. It uses the [WebKit2PNG](https://pypi.org/project/webkit2png/) script to make the screenshot.
+A server daemon written in Perl which listens in an specified TCP port for a string containing the URL to be screenshoted. It uses the [WebKit2PNG](https://pypi.org/project/webkit2png/) script to make the screenshot.
 
 You can configure the listening port, host and other parameters for the daemon using the [Net::Server configuration](https://metacpan.org/pod/Net::Server). 
 The configured port in the script is 15000 for instance.
