@@ -48,13 +48,13 @@ and then the bytes of the captured screen in PNG format, or an error image.
 
 You can install them using *perl -MCPAN -e shell* or your distro's package manager:
 
-* Net::Server::PreFork
-* GD::Simple
-* File::Temp
-* MIME::Base64
-* Sys::Syslog
-* Digest::SHA
-* Data::Validate::URI
+* [Net::Server::PreFork](https://metacpan.org/pod/Net::Server::PreFork)
+* [GD::Simple](https://metacpan.org/pod/GD::Simple)
+* [File::Temp](https://perldoc.perl.org/File::Temp)
+* [MIME::Base64](https://metacpan.org/pod/MIME::Base64)
+* [Sys::Syslog](https://perldoc.perl.org/Sys::Syslog)
+* [Digest::SHA](https://metacpan.org/pod/Digest::SHA)
+* [Data::Validate::URI](https://metacpan.org/pod/Data::Validate::URI)
 
 ### Programs
 
