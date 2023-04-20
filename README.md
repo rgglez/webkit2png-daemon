@@ -67,10 +67,6 @@ You can install them using *perl -MCPAN -e shell* or your distro's package manag
 * You must download the [webkit2png](https://pypi.org/project/webkit2png/) Python script.
 * If you are into cloud FaaS, look [here](https://github.com/rgglez/fc-webpage-screenshot).
 
-## TODO
-
-* Use command line parameters and a configuration file.
-
 ## License
 
 Copyright (c) 2023, Rodolfo González González.
