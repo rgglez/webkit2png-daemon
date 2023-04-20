@@ -42,7 +42,7 @@ use Data::Validate::URI qw(is_uri);
 
 @ISA = qw(Net::Server::PreFork);
 
-MyPackage->run(port => 15000);
+MyPackage->run();
 exit;
 
 ################################################################################
