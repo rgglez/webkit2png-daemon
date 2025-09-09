@@ -3,6 +3,8 @@
 [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 ![GitHub issues](https://img.shields.io/github/issues/rgglez/webkit2png-daemon) 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/rgglez/webkit2png-daemon)
+![GitHub stars](https://img.shields.io/github/stars/rgglez/webkit2png-daemon?style=social)
+![GitHub forks](https://img.shields.io/github/forks/rgglez/webkit2png-daemon?style=social)
 
 A server daemon written in Perl which listens in an specified TCP port for a string containing the URL to be screenshoted. It uses the [WebKit2PNG](https://pypi.org/project/webkit2png/) script to make the screenshot.
 
