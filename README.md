@@ -71,6 +71,6 @@ You can install them using *perl -MCPAN -e shell* or your distro's package manag
 
 ## License
 
-Copyright (c) 2023, Rodolfo González González.
+Copyright (c) 2026, Rodolfo González González.
 
 Read the LICENSE file.
